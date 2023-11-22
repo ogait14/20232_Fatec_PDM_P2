@@ -93,4 +93,3 @@ class _CatPhotoScreenState extends State<CatPhotoScreen> {
     );
   }
 }
-
